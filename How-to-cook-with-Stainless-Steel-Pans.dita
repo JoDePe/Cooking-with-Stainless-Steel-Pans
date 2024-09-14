@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="HowToCookWithStainlessSteelPans">
+  <title>How to cook with Stainless Steel Pans</title>
+  <abstract>Cooking with stainless steel pans can be a little intimidating because, unlike their non-stick counterparts, they require a bit more technique to use effectively. Stainless steel pans aren't equipped with a non-stick coating, so if the preheating step is skipped, food will easily stick and burn to the pan. In the steps below, we'll outline how to properly preheat and cook with your stainless steel pan.</abstract>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Place the pan on a stove over medium heat for a few minutes.</cmd>
+        <info>If you are in a rush, medium heat is still your best option. The pan will not heat up faster on a medium-high or high setting.</info>
+      </step>
+      <step>
+        <cmd>Test the pan's temperature by adding droplets of water.</cmd>
+        <info>
+          How the water reacts to the pan will indicate if the pan is hot enough.
+            <ol>
+                <li>If the water fizzles out in the pan, the pan requires a few more minutes.</li>
+                <li>If the water breaks into little beads or pearls all over the pan, it is almost ready.</li>
+                <li>If the water forms a bead or pearl that glides over the pan and does not fizzle out, then the pan is at the right temperature.</li>
+            </ol>
+        </info>
+        <stepresult>The pan is ready for cooking once the water forms a bead or pearl and glides smoothly over the pan.</stepresult>
+      </step>
+      <step>
+        <cmd>Once the pan is ready, add your oil or butter.</cmd>
+        <info>
+          How the oil or butter reacts to the pan is a sign if the pan is too hot.
+            <ul>
+                <li>The oil should be aromatic when added to the pan. If it produces excessive smoke then the pan is too hot.</li>
+                <li>The butter should foam when added to the pan and eventually turn golden brown. If it blackens, the butter has burnt.</li>
+            </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>With your oil or butter in the pan, coat the surface and edges to create a uniform cooking area.</cmd>
+      </step>
+      <step>
+        <cmd>With the pan properly preheated and coated in oil or butter, you can now begin cooking.</cmd>
+      </step>
+      <step>
+        <cmd>Place your contents into the pan. Do not overcrowd the pan while cooking.</cmd>
+        <info>Overcrowding will lower the pan's temperature and cause the food to steam rather than cook properly.</info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
