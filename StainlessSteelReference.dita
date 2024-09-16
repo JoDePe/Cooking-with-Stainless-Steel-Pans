@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="StainlessSteelProperties">
+  <title>How Stainless Steel Works</title>
+  <abstract>To fully utilize stainless steel cookware, it's important to understand its characteristics and how it works. Below we'll break down some of it's characteristics.</abstract>
+  <refbody>
+    <section>
+      <title>Natural Non-Stick Properties</title>
+      <ul>
+        <li><p><b>Leidenfrost Effect</b>: If you've ever wondered why those little beads of water form on the pan during the preheating process, it's because they're a result of the Leidenfrost Effect. This occurs when the surface temperature is nearly double the boiling point of water. When water is added to the pan, the bottom part of the water evaporates and creates a layer of steam that suspends the rest of the water droplet. The remaining water is actually floating across the pan.</p></li>
+        <li><p><b>Thermal Expansion</b>: When a stainless steel pan heats up, the metal expands and opens microscopic pores in the surface. When oil or butter is added at this stage, it fills these pores, creating a smooth, temporary non-stick layer. As the pan cools and contracts, the oil seals into those pores.</p></li>
+      </ul>
+      <note>It is important to not overcrowd the pan. If the pan is overcrowded, it will lower the temperature below the Leidenfrost point and, despite it being hot, food will stick to the surface. Also, after cooking, let the pan cool down naturally before placing it in water. If a hot pan comes in direct contact with water, the sudden temperature drop will cause the pan to warp.</note>
+    </section>
+
+    <section>
+      <title>Material Composition</title>
+      <ul>
+        <li><p><b>Heat Distribution</b>: Stainless steel pans are not the best conductors of heat, so manufacturers design them with an aluminum or copper core to improve heat distribution. This ensures more even cooking and helps avoid hot spots.</p></li>
+        <li><p><b>Compatibility with Induction Cooktops</b>: Many stainless steel pans are compatible with induction cooktops due to their magnetic properties. The iron in stainless steel allows for efficient energy transfer between the cooktop and the pan.</p></li>
+      </ul>
+      <note>For best cooking results, look for pans with a layered base that includes materials known for better heat distribution.</note>
+    </section>
+
+  </refbody>
+</reference>
