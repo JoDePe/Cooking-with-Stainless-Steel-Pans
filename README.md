@@ -5,8 +5,8 @@ This repository contains XML files following DITA rules related to cooking with 
 All topics in this repository have been converted into HTML5 pages using DITA Open Toolkit.
 
 Currently, this repository includes:
-- [One Task topic](How-to-cook-with-Stainless-Steel-Pans.dita)
-- [One Concept topic](WhyStainlessSteel.dita)
+- [One Task topic](StainlessSteelTask.dita)
+- [One Concept topic](StainlessSteelConcept.dita)
 - [One Reference topic](StainlessSteelReference.dita)
 - One Ditamap
 
